@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDBContextMockDemo", "EFDBContextMockDemo\EFDBContextMockDemo.csproj", "{7074D9CF-C17B-4956-B2C0-C7E9FB806319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDBContextMockTest", "EFDBConextMockTest\EFDBContextMockTest.csproj", "{ECDBC8DB-C2A6-4769-AEA8-39D491A905A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationService", "ApplicationService\ApplicationService.csproj", "{0E0D1085-BE80-48BD-8AFB-C139892F21F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModel", "DomainModel\DomainModel.csproj", "{9A33C663-4E1E-4BB6-A55C-E562D7894D0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7074D9CF-C17B-4956-B2C0-C7E9FB806319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7074D9CF-C17B-4956-B2C0-C7E9FB806319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7074D9CF-C17B-4956-B2C0-C7E9FB806319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7074D9CF-C17B-4956-B2C0-C7E9FB806319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDBC8DB-C2A6-4769-AEA8-39D491A905A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDBC8DB-C2A6-4769-AEA8-39D491A905A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDBC8DB-C2A6-4769-AEA8-39D491A905A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDBC8DB-C2A6-4769-AEA8-39D491A905A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0D1085-BE80-48BD-8AFB-C139892F21F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0D1085-BE80-48BD-8AFB-C139892F21F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0D1085-BE80-48BD-8AFB-C139892F21F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0D1085-BE80-48BD-8AFB-C139892F21F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A33C663-4E1E-4BB6-A55C-E562D7894D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A33C663-4E1E-4BB6-A55C-E562D7894D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A33C663-4E1E-4BB6-A55C-E562D7894D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A33C663-4E1E-4BB6-A55C-E562D7894D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
